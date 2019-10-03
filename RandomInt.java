@@ -1,12 +1,11 @@
 package FeetNumber;
 
 /*
-Mila Arkhiptcova
+Mila 
 Write a program that generates 100 random integers between 0 and 9 
 and displays the count for each number. (Hint: Use an array of 10 integers,
 say counts, to store the counts for the number of 0s, 1s, ..., 9s.)
-10/01/2019
-Bellevue University
+
 RandomInt.java
 */
 public class RandomInt {
